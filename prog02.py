@@ -1,0 +1,2 @@
+message = "Да"
+print(message)
